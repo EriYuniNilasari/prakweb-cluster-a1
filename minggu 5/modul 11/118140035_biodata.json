@@ -1,0 +1,23 @@
+{
+	"nama": {
+		"awal" : "Eri Yuni",
+		"tengah" : " ",
+		"akhir" : "Nilasari"
+	},
+	"jeniskelamin" : "Perempuan",
+	"ttl" : "Lampung Tengah, 9 Juni 2000",
+	"alamat" : {
+		"jl" : "Jl. Proklamator",
+		"Kecamatan" : "Terbanggi Besar",
+		"kabupaten" : "Lampung Tengah"
+	},
+	"hobi": {
+		"hobi": "rebahan",
+		"hobi2" : "jalan-jalan"
+	},
+	"social media" : {
+		"isntagram" : "eriyuninilasari",
+		"facebook" : "eriyuninilasari"
+	}
+
+}

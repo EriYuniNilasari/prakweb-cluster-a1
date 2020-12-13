@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<biodata>
+	<nama>
+		<awal>Eri Yuni </awal>
+		<tengah> </tengah>
+		<akhir> Nilasari </akhir>
+
+		<jeniskelamin>Perempuan</jeniskelamin>
+		<hobi>
+			<hobi1>rebahan</hobi1>
+			<hobi2>jalan-jalan</hobi2>
+		</hobi>
+		<alamat>
+			<jl>jl. Proklamator Raya</jl>
+			<kecamatan>Terbanggi Besar</kecamatan>
+			<kabupaten>Lampung Tengah</kabupaten>
+		</alamat>
+		<socialmedia>
+			<instagram>eriyuninilasari</instagram>
+			<facebook>eriyuninilasari</facebook>
+		</socialmedia>
+</biodata>
